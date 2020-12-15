@@ -22,7 +22,7 @@
 
 namespace shihjay2\tcpdi_merger;
 
-use shihjay2\tcpdi_merger\fpdf_tpl;
+use shihjay2\tcpdi_merger\FPDF_TPL;
 use shihjay2\tcpdi_merger\tcpdi_parser;
 
 class FPDF extends \TCPDF {}
