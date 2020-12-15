@@ -2,7 +2,7 @@
 
 namespace shihjay2\tcpdi_merger;
 // Include the main TCPDF library and TCPDI.
-use shihjay2\tcpdi_merger\tcpdi;
+use shihjay2\tcpdi_merger\TCPDI;
 
 #Intended to extend stuff from the base TCPDF class
 class MyTCPDI extends TCPDI{
